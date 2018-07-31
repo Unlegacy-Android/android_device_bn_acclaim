@@ -88,7 +88,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	omap.audio.mic.sub=AMic1 \
 	omap.audio.power=PingPong \
 	omap.enhancement=true \
-	ro.bq.gpu_to_cpu_unsupported=1 \
 	ro.carrier=wifi-only \
 	ro.config.max_starting_bg=8 \
 	ro.emulated_storage=true \
